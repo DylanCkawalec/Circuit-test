@@ -1,2 +1,2 @@
 # Circuit-test
-This is just a test for Hackathon 
+Inside of Circuit-test/hack is the md file that contains the repository link to the Systhesis I prepared for the UTXO/EVM audit of Noah. Noah is a Cryptographic library built for Zero-Knowledge Proof Applications on Etheruem, using the Findora EVM and Prism Protocol. Prism is a zk-Relayer designed to communicate between a UTXO blockchain and a EVM ledger. This is the cryptographic prooving system breakdown. 
