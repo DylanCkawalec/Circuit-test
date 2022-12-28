@@ -2,7 +2,7 @@
 
 Project Link Repository : https://github.com/ChaoticFindorian/NFTNYC_ZeroKnowledge_University.git
 
--- Please see "Research Findora Breakdown"
+-- Please see "Research Synthesis Findora"
 
 Criteria :: 
 
